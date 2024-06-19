@@ -137,7 +137,7 @@ Join us and explore the world with passion and personalized service."</p>
 
 <!-- home package section starts -->
  <section class = "home-packages">
-    <h1 class="heading">our packages</h1>
+    <h1 class="heading-title">our packages</h1>
 
     <div class ="box-container">
       <div class="box">
@@ -147,8 +147,7 @@ Join us and explore the world with passion and personalized service."</p>
 
         <div class="content">
           <h3>adventure and tour</h3>
-          <p>Discover our curated travel packages designed to immerse you in the beauty and culture of destinations around the globe. From adventurous expeditions to serene getaways,
-             each package offers a unique blend of experiences to cater to every traveler's dream.</p>
+          <p>Discover our curated travel packages designed to immerse you in the beauty and culture of destinations around the globe.</p>
              <a href ="book.php" class="btn"> book now</a>
         </div>
       </div>
@@ -160,8 +159,7 @@ Join us and explore the world with passion and personalized service."</p>
 
         <div class="content">
           <h3>adventure and tour</h3>
-          <p>Discover our curated travel packages designed to immerse you in the beauty and culture of destinations around the globe. From adventurous expeditions to serene getaways,
-             each package offers a unique blend of experiences to cater to every traveler's dream.</p>
+          <p>Discover our curated travel packages designed to immerse you in the beauty and culture of destinations around the globe.</p>
              <a href ="book.php" class="btn"> book now</a>
         </div>
       </div>
@@ -173,8 +171,7 @@ Join us and explore the world with passion and personalized service."</p>
 
         <div class="content">
           <h3>adventure and tour</h3>
-          <p>Discover our curated travel packages designed to immerse you in the beauty and culture of destinations around the globe. From adventurous expeditions to serene getaways,
-             each package offers a unique blend of experiences to cater to every traveler's dream.</p>
+          <p>Discover our curated travel packages designed to immerse you in the beauty and culture of destinations around the globe.</p>
              <a href ="book.php" class="btn"> book now</a>
         </div>
       </div>

@@ -246,9 +246,10 @@ section{
     background: var(--light-bg);
 }
 
+
 .home-packages .box-container{
-    display:grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
     gap: 2rem;
 }
 
@@ -271,7 +272,7 @@ section{
 }
 
 .home-packages .box-container .box .content{
-    padding:2rem;
+    padding: 2rem;
     text-align: center;
 }
 
@@ -287,8 +288,10 @@ section{
     padding: 1rem 0;
 }
 
-
-
+.home-packages .load-more{
+    text-align: center;
+    margin-top: 2rem;
+}
 
 
 
