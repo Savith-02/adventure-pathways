@@ -36,34 +36,10 @@
  <!-- header section end -->
 
 
- <div class = "heading" style="background: url(image/bg1.jpg) no-repeat">
-    <h1>book now</h1>
+ <div class = "heading">
+    <h1>book now!!</h1>
+    <button onclick="window.location.href='book_form.php'">Book Now</button>
  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- footer section starts -->
 
